@@ -23,7 +23,7 @@
 "ACTIVATION_REQUIRED_MESSAGE" = "Bloom 尚未激活。请通过设置激活您的许可证。";
 "SUCCESSFUL_ACTIVATION" = "Bloom 已成功激活。请注销以使更改生效。";
 "ACTIVATION_FAILED" = "无法验证许可证。请再试一次。";
-"LICENSE_INVALID_MESSAGE" = "Bloom 许可证无效。请从 Havoc 仓库购买许可证。";
+"LICENSE_INVALID_MESSAGE" = "Bloom 许可证无效。请从 Havoc 网站购买许可证。";
 "ACTIVATION_REQUIRED_TITLE" = "需要激活";
 "LICENSE_INVALID_TITLE" = "许可证无效";
 "ERROR" = "错误";
